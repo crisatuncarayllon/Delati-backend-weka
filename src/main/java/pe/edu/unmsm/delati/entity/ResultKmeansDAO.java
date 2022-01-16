@@ -63,7 +63,7 @@ public class ResultKmeansDAO {
             result.init_centroids(instancias);
             result.init_columns(data);
             result.init_data(data,kmeans.getAssignments());
-           
+            
             /*OTRAS PRUEBAS
             NO SE ENCONTRO VARIANZA, INERCIA, NUMERO DE ITERACIONES EJECUTADAS 
             DISTANCIA DE CADA CLUSTER

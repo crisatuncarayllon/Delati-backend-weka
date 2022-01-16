@@ -37,7 +37,7 @@ public class ResultKmeans {
             Object temporalTitle;
             for(int k=0; k<num;k++){
                 if(k<num-1){
-                    temporalTitle=instancias.get(i).stringValue(k);
+                    temporalTitle=instancias.get(i).toString(k);
                 }else{
                     temporalTitle=i+1;
                 } 
@@ -123,7 +123,7 @@ public class ResultKmeans {
             for(int k=0;k<num;k++){
                 titulo_cluster=i+1;
                 if(k<num-1){
-                    titulo_cluster=instancias.get(i).stringValue(k);
+                    titulo_cluster=instancias.get(i).toString(k);
                 }
                 titulo_array.add(titulo_cluster);
             }
@@ -156,7 +156,7 @@ public class ResultKmeans {
             for(int k=0;k<num;k++){
                 if(k<num-2){
                     clave_temp=instancias.get(i).attribute(k).name();
-                    valor_temp=instancias.get(i).stringValue(k);       
+                    valor_temp=instancias.get(i).toString(k);       
                 }else if(k==num-2){
                     clave_temp="index";
                     valor_temp=instancias.get(i).index(i)+1;
