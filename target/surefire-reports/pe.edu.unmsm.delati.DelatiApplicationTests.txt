@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: pe.edu.unmsm.delati.DelatiApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.305 s - in pe.edu.unmsm.delati.DelatiApplicationTests

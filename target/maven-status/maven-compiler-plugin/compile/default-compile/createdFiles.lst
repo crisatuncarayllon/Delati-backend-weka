@@ -1,0 +1,16 @@
+pe\edu\unmsm\delati\config\SwaggerConfig.class
+pe\edu\unmsm\delati\entity\ArbolN.class
+pe\edu\unmsm\delati\entity\All_data.class
+pe\edu\unmsm\delati\DelatiApplication.class
+pe\edu\unmsm\delati\entity\Result.class
+pe\edu\unmsm\delati\entity\NodeKmeans.class
+pe\edu\unmsm\delati\entity\Cluster_Centroid.class
+pe\edu\unmsm\delati\config\Connection.class
+pe\edu\unmsm\delati\entity\ResultDAO.class
+pe\edu\unmsm\delati\entity\Node.class
+pe\edu\unmsm\delati\entity\ResultKmeansDAO.class
+pe\edu\unmsm\delati\rest\QueryREST.class
+pe\edu\unmsm\delati\entity\JSONQuery.class
+pe\edu\unmsm\delati\DelatiApplication$1.class
+pe\edu\unmsm\delati\entity\JSONQueryKmeans.class
+pe\edu\unmsm\delati\entity\ResultKmeans.class
